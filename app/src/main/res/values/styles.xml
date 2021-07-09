@@ -5,6 +5,7 @@
         <item name="android:textStyle">bold</item>
         <item name="android:textSize">@dimen/txt_h1</item>
     </style>
+
     <style name="txt_h2_bold">
         <item name="android:fontFamily">@font/roboto</item>
         <item name="android:textStyle">bold</item>
@@ -25,3 +26,7 @@
         <item name="android:textSize">@dimen/txt_img</item>
     </style>
 </resources>
+
+
+
+

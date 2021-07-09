@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">screenShein</string>
+    <string name="sheen_txt1">FREE RETURNS</string>
+    <string name="sheen_txt2">*US ONLY</string>
+    <string name="sheen_txt3">FREE STANDAR SHIPPING</string>
+    <string name="sheen_txt4">ON ORDERS OF $49+</string>
+    <string name="sheen_txt5">CHECK IN DAILY</string>
+    <string name="sheen_txt6">FOR MORE SHEIN POINTS!</string>
 </resources>
