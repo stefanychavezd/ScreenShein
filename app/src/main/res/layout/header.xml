@@ -1,11 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TextView xmlns:android="http://schemas.android.com/apk/res/android"
-    android:id="@+id/textView2"
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="wrap_content"
     android:layout_height="wrap_content"
-    android:text="@string/sheen_txt1"
-    android:textStyle="bold"
-    android:textSize="32dp"
-    android:gravity="center"
-    android:textColor="@color/black"
-    android:background="@color/blue_shein" />
+    android:orientation="vertical"
+    android:background="@color/blue_shein"
+    android:gravity="center">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/sheen_txt1"
+        android:textStyle="bold"
+        android:textSize="30dp"
+
+        android:layout_gravity="center"
+        android:textColor="@color/black"
+        android:background="@color/blue_shein" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/sheen_txt2"
+        android:layout_gravity="right"
+        android:gravity="bottom"
+        android:textColor="@color/black"
+        android:background="@color/blue_shein"
+        android:layout_marginBottom="0dp"/>
+
+</LinearLayout>
+

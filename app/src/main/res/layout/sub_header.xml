@@ -6,7 +6,7 @@
     android:background="@color/gray_shein">
 
     <LinearLayout
-        android:layout_width="wrap_content"
+        android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:orientation="vertical"
         android:layout_weight=".45"
@@ -16,12 +16,13 @@
             android:layout_height="wrap_content"
             android:text="@string/sheen_txt3"
             android:layout_gravity="center"
-            style="@style/txt_h3_bold"/>
+            style="@style/txt_h5_bold"/>
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="@string/sheen_txt4"
-            android:layout_gravity="center"/>
+            android:layout_gravity="center"
+            style="@style/txt_h5_light"/>
 
     </LinearLayout>
 
@@ -32,7 +33,7 @@
         android:layout_weight=".1"/>
 
     <LinearLayout
-        android:layout_width="wrap_content"
+        android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:orientation="vertical"
         android:layout_weight=".45"
@@ -41,11 +42,13 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="@string/sheen_txt5"
-            android:layout_gravity="center"/>
+            android:layout_gravity="center"
+            style="@style/txt_h5_bold"/>
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="@string/sheen_txt6"
+            style="@style/txt_h5_light"
             android:layout_gravity="center"/>
 
     </LinearLayout>
