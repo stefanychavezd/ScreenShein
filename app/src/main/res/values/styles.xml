@@ -24,6 +24,14 @@
         <item name="android:fontFamily">@font/roboto_bold</item>
         <item name="android:textStyle">bold</item>
         <item name="android:textSize">@dimen/txt_img</item>
+        <item name="android:textColor">@color/dark_blue_shein</item>
+    </style>
+    <style name="txt_great_vibes">
+        <item name="android:fontFamily">@font/great_vibes</item>
+        <item name="android:textSize">@dimen/txt_vibes</item>
+        <item name="android:textColor">@color/red_shein</item>
+        <item name="android:textAlignment">center</item>
+        <item name="android:layout_margin">@dimen/mr_10</item>
     </style>
     <style name="txt_h5_bold">
         <item name="android:fontFamily">@font/roboto</item>
