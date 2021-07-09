@@ -4,21 +4,25 @@
         <item name="android:fontFamily">@font/roboto</item>
         <item name="android:textStyle">bold</item>
         <item name="android:textSize">@dimen/txt_h1</item>
+        <item name="android:textColor">@color/black</item>
     </style>
 
     <style name="txt_h2_bold">
         <item name="android:fontFamily">@font/roboto</item>
         <item name="android:textStyle">bold</item>
         <item name="android:textSize">@dimen/txt_h2</item>
+        <item name="android:textColor">@color/black</item>
     </style>
     <style name="txt_h3_bold">
         <item name="android:fontFamily">@font/roboto</item>
         <item name="android:textStyle">bold</item>
         <item name="android:textSize">@dimen/txt_h3</item>
+        <item name="android:textColor">@color/black</item>
     </style>
     <style name="txt_h4_light">
         <item name="android:fontFamily">@font/roboto_light</item>
         <item name="android:textSize">@dimen/txt_h4</item>
+        <item name="android:textColor">@color/black</item>
     </style>
     <style name="txt_img_bold">
         <item name="android:fontFamily">@font/roboto_bold</item>
@@ -32,19 +36,24 @@
         <item name="android:textColor">@color/red_shein</item>
         <item name="android:textAlignment">center</item>
         <item name="android:layout_margin">@dimen/mr_10</item>
+
+
     </style>
     <style name="txt_h5_bold">
         <item name="android:fontFamily">@font/roboto</item>
         <item name="android:textStyle">bold</item>
         <item name="android:textSize">@dimen/txt_h5</item>
+        <item name="android:textColor">@color/black</item>
     </style>
     <style name="txt_h5_light">
         <item name="android:fontFamily">@font/roboto</item>
         <item name="android:textSize">@dimen/txt_h5</item>
+        <item name="android:textColor">@color/black</item>
     </style>
     <style name="txt_h6_light">
         <item name="android:fontFamily">@font/roboto</item>
         <item name="android:textSize">@dimen/txt_h6</item>
+        <item name="android:textColor">@color/black</item>
     </style>
 </resources>
 
