@@ -77,7 +77,6 @@
         android:layout_marginBottom="5dp"
         android:background="@color/dark_blue_shein"
         android:gravity="center"
-        android:textStyle="bold"
         android:textSize="12dp"
         android:textColor="@color/white"/>
 
